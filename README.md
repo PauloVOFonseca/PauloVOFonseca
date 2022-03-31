@@ -6,7 +6,7 @@
 🔭 Atualmente trabalhando na DevMagic
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<PauloVOFonseca>&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=PauloVOFonseca&show_icons=true&theme=radical&count_private=true" />
 
 <!--
 **PauloVOFonseca/PauloVOFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
