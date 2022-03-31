@@ -2,7 +2,9 @@
 
 
 ⚡ Dev Mobile Junior
+
 💻 Estudando Kotlin
+
 🔭 Atualmente trabalhando na DevMagic
 
 
