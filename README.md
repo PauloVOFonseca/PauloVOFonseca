@@ -4,7 +4,7 @@
 
 ⚡ Dev Mobile Junior
 
-💻 Estudando Kotlin
+💻 Aprofundando o conhecimento em flutter e estudando NodeJs
 
 🔭 Atualmente trabalhando na DevMagic
 
