@@ -4,9 +4,7 @@
 
 ⚡ Dev Mobile Junior
 
-💻 Aprofundando o conhecimento em flutter e estudando NodeJs
-
-🔭 Atualmente trabalhando na DevMagic
+💻 Aprofundando o conhecimento em flutter e estudando React Native/Kotlin
 
 
 ![Paulo Vitor Status](https://github-readme-stats.vercel.app/api?username=PauloVOFonseca&show_icons=true&theme=radical&count_private=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVOFonseca&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
